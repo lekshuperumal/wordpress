@@ -40,4 +40,3 @@ The following features of the WordPress Theme Customizer were explored and modif
 ## 📄 Project Documentation
 
 A PDF file has been included in this repository.
-
